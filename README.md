@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏛️ Sophomore at IIT Roorkee. <br>🔭 I’m currently working on Deep Learning.<br>👯 I’m looking to collaborate on Deep Learning Projects.<br>🌱 I’m currently learning NLP.
+🏛️ Sophomore at IIT Roorkee. <br>🔭 I’m currently working on Deep Learning.<br>👯 I’m looking to collaborate on Deep Learning Projects.<br>🌱 I’m currently learning NLP and Computer Vision.
 
 
 ## 🌐 Socials:
