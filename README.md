@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Large Language Models, and anything related to AI.**
 
-- 📫 How to reach me **ayushsingh73920@gmail.com**
+- 📫 Reach me here - **ayushsingh73920@gmail.com**
 
 <!-- - 📄 Know about my experiences from my [Resume](https://www.overleaf.com/read/dfxpyyrgfrsc#2e3d34) -->
 
