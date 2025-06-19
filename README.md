@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
-<h3 align="center">Currently in my 2nd year in IIT Roorkee, India</h3>
+<h3 align="center">A passionate developer and researcher from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-singh-iitr&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-singh-iitr" /> </p>
 
@@ -15,17 +15,14 @@
 
 ### Ream my papers here !!!
 
-- **IPO: Your Language Model is Secretly a Preference Classifier**
+- **IPO: Your Language Model is Secretly a Preference Classifier** [Paper](https://arxiv.org/abs/2502.16182)
   - *ACL MAIN CONFERENCE, 2025*
-  - [Paper](https://arxiv.org/abs/2502.16182)
 
-- **LoRA-Mini : Adaptation Matrices Decomposition and Selective Training**
+- **LoRA-Mini : Adaptation Matrices Decomposition and Selective Training** [Paper](https://arxiv.org/abs/2411.15804)
   - *AAAI CoLoRAi Workshop, 2024*
-  - [Paper](https://arxiv.org/abs/2411.15804)
 
-- **Adaptive Urban Planning: A Hybrid Framework for Balanced City Development**
+- **Adaptive Urban Planning: A Hybrid Framework for Balanced City Development** [Paper](https://arxiv.org/abs/2412.15349)
   - *AAAI AI4UP Workshop, 2024*
-  - [Paper](https://arxiv.org/abs/2412.15349)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
