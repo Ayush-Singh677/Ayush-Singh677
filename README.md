@@ -5,8 +5,6 @@
 
 - 🔭 I'm currently working on **improving the reasoning abilities of language models through RL techniques.**
 
-- 🌱 I'm currently learning **how to build interpretable and useful ai that can be used to change lives.**
-
 - 💬 Ask me about **Large Language Models, and anything related to AI.**
 
 - 📫 Reach me here - **ayushsingh73920@gmail.com**
