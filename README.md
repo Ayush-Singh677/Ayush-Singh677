@@ -26,6 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/AyushSingh42393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayush_singh_iitr" height="30" width="40" /></a>
+<a href="https://x.com/Ayush_7888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayush_singh_iitr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayush-singh-40539522b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-singh-iitr" height="30" width="40" /></a>
 <!-- <a href="https://scholar.google.com/citations?user=dwDThyIAAAAJ&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-scholar.svg" alt="ayush-singh-iitr" height="30" width="40" /></a> -->
+
+
