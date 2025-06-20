@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Singh</h1>
+<h1 align="center">Hi, I'm Ayush Singh</h1>
 <h3 align="center">Currently in my 2nd year at IIT Roorkee.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-singh-iitr&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-singh-iitr" /> </p>
@@ -11,7 +11,7 @@
 
 <!-- - 📄 Know about my experiences from my [Resume](https://www.overleaf.com/read/dfxpyyrgfrsc#2e3d34) -->
 
-### Ream my papers here !!!
+### Read my papers here !!!
 
 - **IPO: Your Language Model is Secretly a Preference Classifier** - [Paper](https://arxiv.org/abs/2502.16182)
   - *ACL MAIN CONFERENCE, 2025*
